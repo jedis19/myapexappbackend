@@ -2,21 +2,25 @@
   "weaponTypes": [
     {
       "id": "1",
-      "name": "Assault Riffles",
+	  "name": "Assault Riffles",
+	  "type":"assaultRiffles",
       "imgUrl": "https://i.hizliresim.com/7B4rnP.png"
     },
     {
-      "id": "2",
+	  "id": "2",
+	  "type":"smg",
       "name": "SMG",
       "imgUrl": "https://i.hizliresim.com/M1r3G2.png"
     },
     {
-      "id": "3",
+	  "id": "3",
+	  "type":"lmg",
       "name": "LMG",
       "imgUrl": "https://i.hizliresim.com/DOa0gl.png"
     },
     {
-      "id": "4",
+	  "id": "4",
+	  "type":"sniperRiffles",
       "name": "Sniper Riffles",
       "imgUrl": "https://i.hizliresim.com/BOk57D.png"
     },
