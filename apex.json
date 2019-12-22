@@ -46,7 +46,7 @@
     },
     {
 	  "id": "2",
-	  "type":"smg",
+	  "type":"assaultRiffles",
       "name": "Hemloc",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
       "imgurl": "https://progearandsettings.com/wp-content/uploads/hemlok.png",
@@ -57,7 +57,8 @@
       "firerate": "49"
     },
     {
-      "id": "3",
+	  "id": "3",
+	  "type":"assaultRiffles",
       "name": "Flatline",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
       "imgurl": "https://vignette.wikia.nocookie.net/titanfall/images/7/71/AL_VK-47_Flatline_AR.png/revision/latest?cb=20190715161631&path-prefix=tr",
@@ -68,7 +69,8 @@
       "firerate": "60"
     },
     {
-      "id": "4",
+	  "id": "4",
+	  "type":"assaultRiffles",
       "name": "R-301",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
       "imgurl": "https://play-apex.net/images/weapons/Assault%20Rifles/R-301.png",
@@ -82,7 +84,8 @@
 
   "smg": [
     {
-      "id": "1",
+	  "id": "1",
+	  "type":"smg",
       "name": "R-99",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
       "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/d/d5/R-99_SMG.png",
@@ -93,7 +96,8 @@
       "firerate": "100"
     },
     {
-      "id": "2",
+	  "id": "2",
+	  "type":"smg",
       "name": "Alternator",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
       "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/e/e9/Alternator_SMG.png/314px-Alternator_SMG.png?version=99083a7018f31184ac5f28eb5fd99e40",
@@ -104,7 +108,8 @@
       "firerate": "64"
     },
     {
-      "id": "3",
+	  "id": "3",
+	  "type":"smg",
       "name": "Prowler",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
       "imgurl": "https://vignette.wikia.nocookie.net/titanfall/images/a/a5/AL_Prowler_Burst_PDW.png/revision/latest?cb=20190329143259",
