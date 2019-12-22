@@ -1,0 +1,20 @@
+{
+   "assaultRiffles": [
+        {
+	    "id":"1",
+	    "name":"Havoc",
+	    "basedamage":"18",
+	    "headdamage":"36",
+	    "magazine":"25",
+	    "firerate":"43.7"
+        },
+	{
+	    "id":"2",
+	    "name":"Hemloc",
+	    "basedamage":"18",
+	    "headdamage":"36",
+	    "magazine":"25",
+	    "firerate":"43.7"
+        }
+    ]
+}
