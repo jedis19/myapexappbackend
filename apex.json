@@ -1,20 +1,52 @@
 {
-   "assaultRiffles": [
-        {
-	    "id":"1",
-	    "name":"Havoc",
-	    "basedamage":"18",
-	    "headdamage":"36",
-	    "magazine":"25",
-	    "firerate":"43.7"
-        },
-	{
-	    "id":"2",
-	    "name":"Hemloc",
-	    "basedamage":"18",
-	    "headdamage":"36",
-	    "magazine":"25",
-	    "firerate":"43.7"
-        }
-    ]
+  "weaponTypes": [
+    {
+      "id": "1",
+      "name": "Assault Riffles",
+      "imgUrl": "https://i.hizliresim.com/7B4rnP.png"
+    },
+    {
+      "id": "2",
+      "name": "SMG",
+      "imgUrl": "https://i.hizliresim.com/M1r3G2.png"
+    },
+    {
+      "id": "3",
+      "name": "LMG",
+      "imgUrl": "https://i.hizliresim.com/DOa0gl.png"
+    },
+    {
+      "id": "4",
+      "name": "Sniper Riffles",
+      "imgUrl": "https://i.hizliresim.com/BOk57D.png"
+    },
+    {
+      "id": "5",
+      "name": "Pistols",
+      "imgUrl": "https://i.hizliresim.com/VQb1WP.png"
+    },
+    {
+      "id": "6",
+      "name": "Shotguns",
+      "imgUrl": "https://i.hizliresim.com/LvLWzb.png"
+    }
+  ],
+  "assaultRiffles": [
+    {
+      "id": "1",
+      "name": "Havoc",
+      "basedamage": "18",
+      "headdamage": "36",
+      "magazine": "25",
+      "firerate": "43.7"
+    },
+    {
+      "id": "2",
+      "name": "Hemloc",
+      "basedamage": "18",
+      "headdamage": "36",
+      "magazine": "25",
+      "firerate": "43.7"
+    }
+  ]
 }
