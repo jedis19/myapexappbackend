@@ -25,12 +25,14 @@
       "imgUrl": "https://i.hizliresim.com/BOk57D.png"
     },
     {
-      "id": "5",
+	  "id": "5",
+	  "type":"pistols",
       "name": "Pistols",
       "imgUrl": "https://i.hizliresim.com/VQb1WP.png"
     },
     {
-      "id": "6",
+	  "id": "6",
+	  "type":"shotguns",
       "name": "Shotguns",
       "imgUrl": "https://i.hizliresim.com/LvLWzb.png"
     }
@@ -123,5 +125,193 @@
       "magazine": "20",
       "firerate": "80"
     }
+  ],
+  "lmg": [
+    {
+	  "id": "1",
+	  "type":"lmg",
+      "name": "SpitFire",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/d/d6/M600_Spitfire_LMG.png",
+      "tier": "A",
+      "basedamage": "18",
+      "headdamage": "36",
+      "magazine": "35",
+      "firerate": "51.2"
+    },
+    {
+	  "id": "2",
+	  "type":"lmg",
+      "name": "Devotion",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/2/2d/Energy_Ammo.svg?version=5ee953c0dd70b1be439189fcd779c457",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/8/8c/Devotion_LMG.png",
+      "tier": "B",
+      "basedamage": "17",
+      "headdamage": "24",
+      "magazine": "36",
+      "firerate": "90"
+    },
+    {
+	  "id": "3",
+	  "type":"lmg",
+      "name": "L-Star",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a8/Experimental_Ammo.svg?version=67b20c83183acdb5e321efc694f12cb0",
+      "imgurl": "https://vignette.wikia.nocookie.net/titanfall/images/d/da/AL_L-STAR_EMG.png/revision/latest?cb=20190707202301",
+      "tier": "B",
+      "basedamage": "19",
+      "headdamage": "38",
+      "magazine": "40",
+      "firerate": "72"
+    }
+  ],
+  "sniperRiffles": [
+    {
+	  "id": "1",
+	  "type":"sniperRiffles",
+      "name": "Kraber",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a8/Experimental_Ammo.svg?version=67b20c83183acdb5e321efc694f12cb0",
+      "imgurl": "https://play-apex.net/images/weapons/Sniper%20Rifles/Kraber.png",
+      "tier": "S",
+      "basedamage": "145",
+      "headdamage": "297",
+      "magazine": "4",
+      "firerate": "3.6"
+    },
+    {
+	  "id": "2",
+	  "type":"sniperRiffles",
+      "name": "LongBow",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
+      "imgurl": "https://play-apex.net/images/weapons/Sniper%20Rifles/Longbow.png",
+      "tier": "A",
+      "basedamage": "55",
+      "headdamage": "118",
+      "magazine": "6",
+      "firerate": "8.6"
+    },
+    {
+	  "id": "3",
+	  "type":"sniperRiffles",
+      "name": "G7-Scout",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/2/25/G7_Scout_SR.png/314px-G7_Scout_SR.png?version=025611abc7dc5985d86cbb509b0dcb75",
+      "tier": "A",
+      "basedamage": "34",
+      "headdamage": "68",
+      "magazine": "10",
+      "firerate": "27.3"
+	},
+	{
+		"id": "4",
+		"type":"sniperRiffles",
+		"name": "TripleTake",
+		"ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/2/2d/Energy_Ammo.svg?version=5ee953c0dd70b1be439189fcd779c457",
+		"imgurl": "https://www.pikpng.com/pngl/b/310-3103861_triple-take-triple-take-apex-png-transparent-png.png",
+		"tier": "C",
+		"basedamage": "23",
+		"headdamage": "46",
+		"magazine": "5",
+		"firerate": "8.8"
+	  },
+	  {
+		"id": "5",
+		"type":"sniperRiffles",
+		"name": "ChargeRiffle",
+		"ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/2/2d/Energy_Ammo.svg?version=5ee953c0dd70b1be439189fcd779c457",
+		"imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/2/2b/Charge_Rifle.png",
+		"tier": "B",
+		"basedamage": "45",
+		"headdamage": "56",
+		"magazine": "12",
+		"firerate": "3"
+	  }
+  ],
+  "pistols": [
+    {
+	  "id": "1",
+	  "type":"pistols",
+      "name": "Wingman",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/38/Wingman_Pistol.png/314px-Wingman_Pistol.png?version=1a14733fa9ef4c0f8a2dceee5fcda22d",
+      "tier": "A",
+      "basedamage": "45",
+      "headdamage": "90",
+      "magazine": "4",
+      "firerate": "15.6"
+    },
+    {
+	  "id": "2",
+	  "type":"pistols",
+      "name": "RE-45",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/31/RE-45_Pistol.png/314px-RE-45_Pistol.png?version=30b9e99d26152c7ac384a79711b7bc0a",
+      "tier": "B",
+      "basedamage": "11",
+      "headdamage": "16",
+      "magazine": "16",
+      "firerate": "75"
+    },
+    {
+	  "id": "3",
+	  "type":"pistols",
+      "name": "P2020",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/a/a5/Light_Rounds.svg?version=5fe3d557c4f96c710ea3d0fe09084721",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/d/d3/P2020_Pistol.png/314px-P2020_Pistol.png?version=717fac762f090944b73681f7b7839357",
+      "tier": "C",
+      "basedamage": "13",
+      "headdamage": "20",
+      "magazine": "10",
+      "firerate": "43"
+	}
+  ],
+  "shotguns": [
+    {
+	  "id": "1",
+	  "type":"shotguns",
+      "name": "Mastiff",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/8/87/Special_Shotgun_Shells.svg?version=6119ec558356eadc7ed47e5f402a61a1",
+      "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/7/7b/Mastiff_SG.png",
+      "tier": "S",
+      "basedamage": "18*8",
+      "headdamage": "36*8",
+      "magazine": "4",
+      "firerate": "9.6"
+    },
+    {
+	  "id": "2",
+	  "type":"shotguns",
+      "name": "EVA-8",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/4/42/Shotgun_Shells.svg?version=a2781949b17f3460f2b0641dc4721ffd",
+      "imgurl": "https://play-apex.net/images/weapons/Shotguns/EVA-8%20Auto.png",
+      "tier": "B",
+      "basedamage": "7*9",
+      "headdamage": "10*9",
+      "magazine": "8",
+      "firerate": "12.8"
+    },
+    {
+	  "id": "3",
+	  "type":"shotguns",
+      "name": "PeaceKeeper",
+      "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/4/42/Shotgun_Shells.svg?version=a2781949b17f3460f2b0641dc4721ffd",
+      "imgurl": "https://play-apex.net/images/weapons/Shotguns/Peacekeeper.png",
+      "tier": "A",
+      "basedamage": "10*11",
+      "headdamage": "15*11",
+      "magazine": "6",
+      "firerate": "5.8"
+	},
+	{
+		"id": "4",
+		"type":"shotguns",
+		"name": "Mozambique",
+		"ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/4/42/Shotgun_Shells.svg?version=a2781949b17f3460f2b0641dc4721ffd",
+		"imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/7/7e/Mozambique_SG.png",
+		"tier": "D",
+		"basedamage": "15*3",
+		"headdamage": "22*3",
+		"magazine": "3",
+		"firerate": "18"
+	  }
   ]
 }
