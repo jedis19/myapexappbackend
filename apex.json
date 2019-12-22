@@ -33,7 +33,8 @@
   ],
   "assaultRiffles": [
     {
-      "id": "1",
+	  "id": "1",
+	  "type":"assaultRiffles",
       "name": "Havoc",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/2/2d/Energy_Ammo.svg?version=5ee953c0dd70b1be439189fcd779c457",
       "imgurl": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/b/b5/Havoc_Rifle_AR.png",
@@ -44,7 +45,8 @@
       "firerate": "43.7"
     },
     {
-      "id": "2",
+	  "id": "2",
+	  "type":"smg",
       "name": "Hemloc",
       "ammotype": "https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/5/55/Heavy_Rounds.svg?version=9e5e6b41d9b5116a80c924271d453b00",
       "imgurl": "https://progearandsettings.com/wp-content/uploads/hemlok.png",
