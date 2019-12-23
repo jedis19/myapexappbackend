@@ -47,19 +47,19 @@
 	  "firstspellname":"Smoke Bomb",
 	  "secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/1/15/Double_Time.png/100px-Double_Time.png?version=6b58c365d2abbd7de9b63b8f0bafc036",
 	  "secondspellname":"Double Time",
-	  "thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/7/7a/Rolling_Thunder.png/100px-Rolling_Thunder.png?version=907823e420697ebbb6058d22d3e0b0dd",
+	  "thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/7/7a/Rolling_Thunder.png/100px-Rolling_Thunder.png?version=907823e420697ebbb6058d22d3e0b0dd",
 	  "thirdspellname":"Rolling Thunder"
     },
 	{
 		"id": "2",
 		"name": "Bloodhound",
 		"type":"Recon",
-		"imgUrl": "https://www.jing.fm/clipimg/detail/262-2624092_bloodhound-apex-legends-bloodhound-png.png",
+		"imgUrl": "https://media.playstation.com/is/image/SCEA/apex-legends-bloodhound-character-art-02-ps4-us-26feb19?$native_md_t$",
 		"firstspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/c3/Eye_of_the_Allfather.png/100px-Eye_of_the_Allfather.png?version=67dc6e9b843afe4b40fcdde6be2d75f4",
-		"firstspellname":"Eye Of AllFather",
+		"firstspellname":"Eye Of All Father",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/c5/Tracker.png/100px-Tracker.png?version=80af6a3ade7e26ffa3ca0fbb30b44c54",
 		"secondspellname":"Tacker",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/3e/Beast_of_the_Hunt.png/100px-Beast_of_the_Hunt.png?version=83b33c69203e8aa17c226c8af3d88cf7",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/3e/Beast_of_the_Hunt.png/100px-Beast_of_the_Hunt.png?version=83b33c69203e8aa17c226c8af3d88cf7",
 		"thirdspellname":"Beast Of Hunt"
 	  },
 	  {
@@ -71,7 +71,7 @@
 		"firstspellname":"Gas Trap",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/4/43/Nox_Vision.png/100px-Nox_Vision.png?version=474f2473d2087cb5cea72c7da449c044",
 		"secondspellname":"Nox Vision",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/2/24/Nox_Gas_Grenade.png/100px-Nox_Gas_Grenade.png?version=49952feed1b3891d7fced176bfaba102",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/2/24/Nox_Gas_Grenade.png/100px-Nox_Gas_Grenade.png?version=49952feed1b3891d7fced176bfaba102",
 		"thirdspellname":"Gas Grenade"
 	  },
 	  {
@@ -83,7 +83,7 @@
 		"firstspellname":"Surveillance Drone",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/e/ef/Neurolink.png/100px-Neurolink.png?version=f526c9e768d795bb6a98189d6cbd36f8",
 		"secondspellname":"Neuro Link",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/b/b0/Drone_EMP.png/100px-Drone_EMP.png?version=a2d9494046a359fc963cd449ce03de54",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/b/b0/Drone_EMP.png/100px-Drone_EMP.png?version=a2d9494046a359fc963cd449ce03de54",
 		"thirdspellname":"Drone EMP"
 	  },
 	  {
@@ -95,31 +95,31 @@
 		"firstspellname":"Dome Of Protection",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/b/ba/Gun_Shield.png/100px-Gun_Shield.png?version=dc2a89f325790a60374436e2fa240054",
 		"secondspellname":"Gun Shield",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/6/6a/Defensive_Bombardment.png/100px-Defensive_Bombardment.png?version=5538370e286745097a2e7d497c427759",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/6/6a/Defensive_Bombardment.png/100px-Defensive_Bombardment.png?version=5538370e286745097a2e7d497c427759",
 		"thirdspellname":"Deffensive Bombardment"
 	  },
 	  {
 		"id": "6",
 		"name": "LifeLine",
 		"type":"Support",
-		"imgUrl": "https://media.playstation.com/is/image/SCEA/apex-legends-lifeline-character-art-02-ps4-us-26feb19?$native_md_t$",
+		"imgUrl": "https://cdn131.picsart.com/289966300056211.png?r1024x1024",
 		"firstspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/0/0b/D.O.C._Heal_Drone.png/100px-D.O.C._Heal_Drone.png?version=319b6797bda66e8ece5522ee82db5b3a",
 		"firstspellname":"Heal Drone",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/c2/Combat_Medic.png/100px-Combat_Medic.png?version=646b2be0f11ab480a3bd4795b786090d",
 		"secondspellname":"Combat Medic",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/3f/Care_Package.png/100px-Care_Package.png?version=f598f0a828f42c8a3cde72ceddc38b55",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/3f/Care_Package.png/100px-Care_Package.png?version=f598f0a828f42c8a3cde72ceddc38b55",
 		"thirdspellname":"Care Package"
 	  },
 	  {
 		"id": "7",
 		"name": "Mirage",
 		"type":"Offensive",
-		"imgUrl": "https://media.playstation.com/is/image/SCEA/apex-legends-mirage-character-art-02-ps4-us-25feb19?$native_md_t$",
+		"imgUrl": "https://www.trzcacak.rs/myfile/detail/506-5068522_mirage-apex-legends-wallpaper-mirage.png",
 		"firstspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/3/33/Psyche_Out.png/100px-Psyche_Out.png?version=a11e04da2035532d436b6369be9407f2",
 		"firstspellname":"Psyche Out",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/5/50/Encore%21.png/100px-Encore%21.png?version=9fc8a8bec7863c594f7a0029f08a52a1",
 		"secondspellname":"Encore",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/d/de/Vanishing_Act.png/100px-Vanishing_Act.png?version=c238fa5143dd9bf4a92eab81c2dbc76f",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/d/de/Vanishing_Act.png/100px-Vanishing_Act.png?version=c238fa5143dd9bf4a92eab81c2dbc76f",
 		"thirdspellname":"Vanishing Act"
 	  },
 	  {
@@ -131,7 +131,7 @@
 		"firstspellname":"Stim",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/4/43/Swift_Mend.png/100px-Swift_Mend.png?version=32e841cb145de2d7c85bbd356ca63da7",
 		"secondspellname":"Swift Mend",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/f/f1/Launch_Pad.png/100px-Launch_Pad.png?version=c80e4b8127aee2473043139512eaaac7",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/f/f1/Launch_Pad.png/100px-Launch_Pad.png?version=c80e4b8127aee2473043139512eaaac7",
 		"thirdspellname":"Launch Pad"
 	  },
 	  {
@@ -143,7 +143,7 @@
 		"firstspellname":"Grappling Hook",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/e/ed/Insider_Knowledge.png/100px-Insider_Knowledge.png?version=5a9f89f04000a92130711a8c206b3020",
 		"secondspellname":"İnsider Know.",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/5/56/Zipline_Gun.png/100px-Zipline_Gun.png?version=336ca803a7b18eec9b77bc5a13a48015",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/5/56/Zipline_Gun.png/100px-Zipline_Gun.png?version=336ca803a7b18eec9b77bc5a13a48015",
 		"thirdspellname":"Zipline Gun"
 	  },
 	  {
@@ -155,7 +155,7 @@
 		"firstspellname":"Perimeter Security",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/5/50/Spark_of_Genius.png/100px-Spark_of_Genius.png?version=fa21d93cc4093aef5333545e8294d225",
 		"secondspellname":"Spark Of Genius",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/cc/Interception_Pylon.png/100px-Interception_Pylon.png?version=af22d0ae5bf67a276b20cb6056ea5490",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/cc/Interception_Pylon.png/100px-Interception_Pylon.png?version=af22d0ae5bf67a276b20cb6056ea5490",
 		"thirdspellname":"Inception Pylon"
 	  },
 	  {
@@ -167,7 +167,7 @@
 		"firstspellname":"Into The Void",
 		"secondspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/c/ca/Voices_from_the_Void.png/100px-Voices_from_the_Void.png?version=f6a3e33d8865ea55aba8392abb13a464",
 		"secondspellname":"Voices Void",
-		"thirspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/4/46/Dimensional_Rift.png/100px-Dimensional_Rift.png?version=2c48d1d1b8440161d37529b6544cec76",
+		"thirdspellurl":"https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/thumb/4/46/Dimensional_Rift.png/100px-Dimensional_Rift.png?version=2c48d1d1b8440161d37529b6544cec76",
 		"thirdspellname":"Dimensional Rift"
 	  }
   ],
